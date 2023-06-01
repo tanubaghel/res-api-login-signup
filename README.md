@@ -5,7 +5,8 @@
 - How to configure Express routes to work with JWT
 - How to define Data Models and association for Authentication and Authorization
 
-## User Registration, User Login and Authorization process.
+## User Registration, User Login and Authorization process. With Create Article 
+
 
 ## Project setup
 ```
